@@ -1,7 +1,7 @@
-popStar
+popBlueCat
 =======
 
-popStar Game Based cocos2d-x 3.2 (C++)
+popBlueCat Game Based cocos2d-x 2.2.5 (lua++)
 
 https://github.com/dingxiaowei/popStar
 Author:Aladdin
