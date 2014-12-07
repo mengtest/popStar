@@ -1,0 +1,35 @@
+-- file=随机名字库.xlsx[名字] key=value
+module('TableNameSecond', package.seeall)
+TableNameSecond["兔耳狼"]={["value"]="兔耳狼"}
+TableNameSecond["可可儿"]={["value"]="可可儿"}
+TableNameSecond["咖喱"]={["value"]="咖喱"}
+TableNameSecond["哈特雷"]={["value"]="哈特雷"}
+TableNameSecond["哈琳"]={["value"]="哈琳"}
+TableNameSecond["啦啦"]={["value"]="啦啦"}
+TableNameSecond["妙妙"]={["value"]="妙妙"}
+TableNameSecond["安安"]={["value"]="安安"}
+TableNameSecond["小多多"]={["value"]="小多多"}
+TableNameSecond["巴豆"]={["value"]="巴豆"}
+TableNameSecond["布叽"]={["value"]="布叽"}
+TableNameSecond["森"]={["value"]="森"}
+TableNameSecond["比卡"]={["value"]="比卡"}
+TableNameSecond["海盗王"]={["value"]="海盗王"}
+TableNameSecond["淘气"]={["value"]="淘气"}
+TableNameSecond["潇潇"]={["value"]="潇潇"}
+TableNameSecond["点点"]={["value"]="点点"}
+TableNameSecond["狐狸"]={["value"]="狐狸"}
+TableNameSecond["甜妞"]={["value"]="甜妞"}
+TableNameSecond["米兔"]={["value"]="米兔"}
+TableNameSecond["红狗"]={["value"]="红狗"}
+TableNameSecond["绿猴"]={["value"]="绿猴"}
+TableNameSecond["羊博士"]={["value"]="羊博士"}
+TableNameSecond["肥仔"]={["value"]="肥仔"}
+TableNameSecond["菲菲"]={["value"]="菲菲"}
+TableNameSecond["蓝猫"]={["value"]="蓝猫"}
+TableNameSecond["虹猫"]={["value"]="虹猫"}
+TableNameSecond["蛋蛋"]={["value"]="蛋蛋"}
+TableNameSecond["金哨"]={["value"]="金哨"}
+TableNameSecond["雷特"]={["value"]="雷特"}
+TableNameSecond["鸡大婶"]={["value"]="鸡大婶"}
+TableNameSecond["黑哨"]={["value"]="黑哨"}
+TableNameSecond["黑熊师傅"]={["value"]="黑熊师傅"}

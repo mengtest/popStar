@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table>
+	<output type="lua-module" code="TableShop" file="商城表.xlsx" sheet="Sheet1">
+		<key code="id" />
+		<field column="ID" code="id" type="uint32" />
+		<field column="Name" code="name" type="string" />
+		<field column="图标" code="icon" type="string" />
+		<field column="游戏币" code="gold" type="uint32" />
+		<field column="购买个数" code="num" type="uint32" />
+		<field column="现实货币" code="cent" type="uint32" />
+		<field column="ProductId" code="ProductId" type="string" />
+		<field column="赠送" code="send" type="uint32" />
+		<field column="道具数量" code="count" type="uint32" />
+	</output>
+</table>

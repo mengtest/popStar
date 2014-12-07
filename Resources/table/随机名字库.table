@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table>
+	<output type="lua-module" code="TableNameFirst" file="随机名字库.xlsx" sheet="前缀">
+		<key code="value" />
+		<field column="前缀" code="value" type="string" />
+	</output>
+	<output type="lua-module" code="TableNameSecond" file="随机名字库.xlsx" sheet="名字">
+		<key code="value" />
+		<field column="名字" code="value" type="string" />
+	</output>
+</table>

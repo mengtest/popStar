@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table>
+	<output type="lua-module" code="TableLevel" file="关卡表.xlsx" sheet="Sheet1">
+		<key code="level" />
+		<field column="关卡" code="level" type="uint32" />
+		<field column="目标分数" code="score" type="int32" />
+	</output>
+</table>
